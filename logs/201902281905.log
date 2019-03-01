@@ -1,0 +1,42 @@
+2019-02-28 19:05:40,442 -BrowserEngine -INFO -读取浏览器成功
+2019-02-28 19:05:40,444 -BrowserEngine -INFO -找到URL:http://127.0.0.1/forum.php
+2019-02-28 19:05:42,856 -BrowserEngine -INFO -浏览器为谷歌
+2019-02-28 19:05:43,434 -BrowserEngine -INFO -打开浏览器http://127.0.0.1/forum.php
+2019-02-28 19:05:44,587 -BasePage -INFO -找到页面元素
+2019-02-28 19:05:44,631 -BasePage -INFO -清除文本框成功
+2019-02-28 19:05:44,649 -BasePage -INFO -找到页面元素
+2019-02-28 19:05:44,749 -BasePage -INFO -文本框成功写入文本：lucky
+2019-02-28 19:05:44,780 -BasePage -INFO -找到页面元素
+2019-02-28 19:05:44,805 -BasePage -INFO -清除文本框成功
+2019-02-28 19:05:44,820 -BasePage -INFO -找到页面元素
+2019-02-28 19:05:44,866 -BasePage -INFO -文本框成功写入文本：lucky
+2019-02-28 19:05:44,896 -BasePage -INFO -找到页面元素
+2019-02-28 19:05:44,940 -BasePage -INFO -点击操作成功
+2019-02-28 19:05:57,502 -BasePage -INFO -未找到页面元素：Message: 
+
+2019-02-28 19:05:57,880 -BasePage -INFO -截图保存到 /screenshots
+2019-02-28 19:05:57,880 -BasePage -ERROR -清楚文本框失败：'NoneType' object has no attribute 'clear'
+2019-02-28 19:05:58,191 -BasePage -INFO -截图保存到 /screenshots
+2019-02-28 19:06:10,709 -BasePage -INFO -未找到页面元素：Message: 
+
+2019-02-28 19:06:11,184 -BasePage -INFO -截图保存到 /screenshots
+2019-02-28 19:06:11,184 -BasePage -ERROR -文本框写入文本失败：'NoneType' object has no attribute 'send_keys'
+2019-02-28 19:06:11,525 -BasePage -INFO -截图保存到 /screenshots
+2019-02-28 19:06:13,593 -BasePage -INFO -找到页面元素
+2019-02-28 19:06:13,726 -BasePage -INFO -点击操作成功
+2019-02-28 19:06:15,741 -BasePage -INFO -切换窗口成功
+2019-02-28 19:06:28,337 -BasePage -INFO -未找到页面元素：Message: 
+
+2019-02-28 19:06:28,636 -BasePage -INFO -截图保存到 /screenshots
+2019-02-28 19:06:28,637 -BasePage -ERROR -点击操作失败：'NoneType' object has no attribute 'click'
+2019-02-28 19:06:28,934 -BasePage -INFO -截图保存到 /screenshots
+2019-02-28 19:06:29,943 -BasePage -INFO -切换窗口成功
+2019-02-28 19:06:41,483 -BasePage -INFO -未找到页面元素：Message: 
+
+2019-02-28 19:06:41,784 -BasePage -INFO -截图保存到 /screenshots
+2019-02-28 19:06:41,785 -BasePage -ERROR -未得到文本：'NoneType' object has no attribute 'text'
+2019-02-28 19:06:42,102 -BasePage -INFO -截图保存到 /screenshots
+2019-02-28 19:06:42,141 -BasePage -INFO -切换窗口成功
+2019-02-28 19:06:44,401 -BasePage -ERROR -切换窗口失败：Message: no such session
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+

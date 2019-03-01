@@ -1,0 +1,11 @@
+2019-02-26 20:56:06,585 -BrowserEngine -INFO -读取浏览器成功
+2019-02-26 20:56:06,586 -BrowserEngine -INFO -找到URL:http://127.0.0.1/forum.php
+2019-02-26 20:56:08,918 -BrowserEngine -INFO -浏览器为谷歌
+2019-02-26 20:56:09,434 -BrowserEngine -INFO -打开浏览器http://127.0.0.1/forum.php
+2019-02-26 20:56:10,654 -BasePage -INFO -清除文本框成功
+2019-02-26 20:56:10,774 -BasePage -INFO -文本框成功写入文本
+2019-02-26 20:56:10,831 -BasePage -INFO -清除文本框成功
+2019-02-26 20:56:10,899 -BasePage -INFO -文本框成功写入文本
+2019-02-26 20:56:10,977 -BasePage -INFO -点击操作成功
+2019-02-26 20:56:11,737 -BasePage -INFO -点击操作成功
+2019-02-26 20:56:14,738 -BrowserEngine -INFO -现在关闭浏览器

@@ -1,0 +1,8 @@
+2019-02-26 18:44:47,726 -BrowserEngine -INFO -读取浏览器成功
+2019-02-26 18:44:47,726 -BrowserEngine -INFO -找到URL:https://www.baidu.com
+2019-02-26 18:44:49,945 -BrowserEngine -INFO -浏览器为谷歌
+2019-02-26 18:44:50,865 -BrowserEngine -INFO -打开浏览器https://www.baidu.com
+2019-02-26 18:44:52,073 -BasePage -INFO -清除文本框成功
+2019-02-26 18:44:52,208 -BasePage -INFO -文本框成功写入文本
+2019-02-26 18:44:52,325 -BasePage -INFO -点击操作成功
+2019-02-26 18:44:55,335 -BrowserEngine -INFO -现在关闭浏览器
